@@ -1,7 +1,7 @@
 # IBM HR Attrition Analysis | Power BI Dashboard
 ### Identifying why employees leave — and what the business can do to stop it
 
-[Dataset Source](https://www.kaggle.com/datasets/rohitsahoo/employee-attrition)
+[Dataset Source](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ---
 
@@ -57,27 +57,21 @@ Avg Salary (Leavers) = CALCULATE(AVERAGE(HR_Data[MonthlyIncome]), HR_Data[Attrit
 > Each finding below is a specific, data-backed insight. Numbers are drawn directly from the dataset.
 
 **Finding 1 — Overall attrition rate is 16.1%, heavily concentrated in two departments**
-
 Of 1,470 employees, 237 have left — a 16.1% attrition rate. This is not evenly distributed. Sales accounts for 20.6% attrition and HR accounts for 19.0%, while Research & Development sits at 13.8%. The problem is not company-wide — it is a Sales and HR problem first.
 
 **Finding 2 — Sales Representatives have the highest attrition of any role at 39.8%**
-
 Nearly 4 in 10 Sales Representatives leave. This is the single most alarming number in the dataset. The next highest role is Laboratory Technician at 23.9%. Both roles share a common characteristic — they are the lowest paid roles in their respective departments, suggesting a compensation issue rather than a culture issue.
 
 **Finding 3 — Employees earning under $3,000/month leave at 3× the rate of those earning above $6,000**
-
 Employees in the lowest salary band (under $3K/month) have a 26.5% attrition rate. This drops to 16.2% in the $3K–$6K band and falls to 8.9% for those earning above $6K. The relationship between salary and retention is linear and clear — this is the strongest single predictor of attrition in the dataset.
 
 **Finding 4 — Overtime is a critical attrition driver: 30.5% vs 10.4%**
-
 Employees required to work overtime leave at a 30.5% rate — nearly three times the 10.4% rate of employees who do not work overtime. Overtime is disproportionately assigned in Sales and HR, which directly explains Finding 1. Overwork and low pay are compounding each other in those departments.
 
 **Finding 5 — The highest attrition risk is at Year 1 of tenure (34.5% attrition)**
-
 Employees in their first year are the most likely to leave — 34.5% attrition. This drops sharply after Year 2 and stabilises around 10% from Year 5 onwards. This pattern strongly suggests an onboarding or expectation-setting problem rather than a long-term engagement problem. Employees are leaving before the company has had a chance to retain them.
 
 **Finding 6 — Single employees leave at nearly double the rate of married employees**
-
 Single employees have a 25.5% attrition rate compared to 12.5% for married employees. While marital status itself is not something a business can influence, it is a useful risk signal — single employees in low-salary, high-overtime roles represent the highest-risk segment in this dataset.
 
 ---
@@ -147,4 +141,4 @@ If I had access to additional data, the next questions I would ask are:
 
 ## Contact
 
-**Your Name** · [LinkedIn](#) · [GitHub](#) · your.email@gmail.com
+**Shubham Kumar** · [LinkedIn](#) · [GitHub](#) · your.email@gmail.com
