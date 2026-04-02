@@ -54,7 +54,6 @@ Avg Salary (Leavers) = CALCULATE(AVERAGE(HR_Data[MonthlyIncome]), HR_Data[Attrit
 
 ## Key Findings
 
-> Each finding below is a specific, data-backed insight. Numbers are drawn directly from the dataset.
 
 **Finding 1 — Overall attrition rate is 16.1%, heavily concentrated in two departments**
 Of 1,470 employees, 237 have left — a 16.1% attrition rate. This is not evenly distributed. Sales accounts for 20.6% attrition and HR accounts for 19.0%, while Research & Development sits at 13.8%. The problem is not company-wide — it is a Sales and HR problem first.
@@ -78,7 +77,6 @@ Single employees have a 25.5% attrition rate compared to 12.5% for married emplo
 
 ## Recommendations
 
-> One actionable recommendation per finding. Each one is specific enough to bring to a management meeting.
 
 **Rec 1 — Focus retention budget on Sales and HR first, not the whole company**
 A blanket retention programme wastes money on departments that do not have a problem. R&D at 13.8% attrition is closer to industry average. Concentrate intervention resources on Sales and HR where the problem is acute.
