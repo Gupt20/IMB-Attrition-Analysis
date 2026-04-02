@@ -131,11 +131,17 @@ If I had access to additional data, the next questions I would ask are:
 
 ## Dashboard Preview
 
-*(Add 2–3 screenshot images of your Power BI report here)*
+<img width="633" height="372" alt="image" src="https://github.com/user-attachments/assets/1b70194d-40fb-4867-b9a0-57b34be140ea" />  
 
-![Executive Summary Page](#)
-![Risk Factors Page](#)
-![Drill-Through Detail Page](#)
+  
+
+<img width="632" height="376" alt="image" src="https://github.com/user-attachments/assets/6fcbfd1c-6d64-4aed-a899-46e94895fa82" />  
+
+
+  
+
+<img width="634" height="376" alt="image" src="https://github.com/user-attachments/assets/449f3cb9-7981-4f77-987e-f4e159134772" />
+
 
 ---
 
