@@ -143,6 +143,3 @@ If I had access to additional data, the next questions I would ask are:
 
 ---
 
-## Contact
-
-**Shubham Kumar** · [LinkedIn](#) · [GitHub](#) · your.email@gmail.com
